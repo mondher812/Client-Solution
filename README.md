@@ -55,6 +55,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Thank you to the clients for their valuable feedback and insights that guided the development of this project.
-```
 
-You can copy and paste this directly into your README file. Let me know if you need any further modifications!
